@@ -1,0 +1,25 @@
+.sidenav{
+	background-color: #D4CECE;
+	height: 500px;
+	border-radius: 10px 10px;
+	/*position: absolute;*/
+}
+.row.content{height: auto;}
+footer{
+	background-color: #CB33E7;
+	color: white;
+	padding: 15px;
+	height: 40px;
+}
+.wraping{
+	/*background-color: #E3D8E5;*/
+	/*padding: 15px;*/
+	padding-left: 5px;
+	border-radius: 5px;
+}
+
+
+.judul-tabel-laporan{
+	background-color: #190EF5;
+	color: #F5E6E6;
+}

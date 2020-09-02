@@ -73,9 +73,9 @@ class WS
 
 
 $_ws=new WS();
-$_ws->username 	='045027';
+$_ws->username 	='';
 
-$_ws->password 	='050104piksi680401';
+$_ws->password 	='';
 $_ws->url 		='192.168.173.173:8082/ws/live.php?wsdl';
 
 $data         =[
